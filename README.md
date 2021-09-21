@@ -1,5 +1,5 @@
 # M306-Service
-\ __centerWerkstattauftrag W07 Webmin__\center</h1>
+\center __centerWerkstattauftrag W07 Webmin__ \center
 1. Autoren, Versionierung des Dokumentes
 Autoren: Adelidia, Zeender
 
