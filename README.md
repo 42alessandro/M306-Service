@@ -3,7 +3,7 @@
 1. Autoren, Versionierung des Dokumentes
 Autoren: Adelidia, Zeender
 
-Version: 1.0
+    Version: 1.0
 
 2. Einfuehrung
 Beschreibung: Welche Funktionen wird der Service erfuellen
