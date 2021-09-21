@@ -1,5 +1,5 @@
 # M306-Service
-<h1>fig.align = 'center' Werkstattauftrag W07 Webmin</h1>
+<h1 align="center">Werkstattauftrag W07 Webmin</h1>
 1. Autoren, Versionierung des Dokumentes
 Autoren: Adelidia, Zeender
 
